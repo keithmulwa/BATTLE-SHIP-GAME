@@ -1,1 +1,2 @@
 # BATTLE-SHIP-GAME
+This is a fantasy battle game in Python where a player-chosen character fights a dragon. The game will track character and dragon stats, prompt the user for a choice, and then simulate a battle to determine a winner.
